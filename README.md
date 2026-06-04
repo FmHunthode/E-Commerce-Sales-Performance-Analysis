@@ -67,3 +67,30 @@ The following preparation steps were carried out before analysis:
 ● Validated numerical fields.
 
 ● Structured the dataset for Pivot Table analysis.
+## Analytical Approach
+
+The analysis was divided into three major business perspectives:
+
+### 1. Overall Performance Analysis
+● Revenue
+
+● Profit
+
+● Quantity Sold
+
+● Orders received
+
+● Average Order Value
+
+● Average Profit Per Order
+
+● Average Quantity Per Order
+
+● Profit Margin
+
+### 2. Seasonal Trend Analysis
+● Monthly revenue and profit patterns
+
+● Year-over-year performance
+
+● Seasonal demand fluctuations
