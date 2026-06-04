@@ -112,6 +112,8 @@ The analysis was divided into three major business perspectives:
 
 ● How has performance changed across years?
 
+● Best performing product in each region?
+
 ● What opportunities exist for revenue growth?
 
 ## Key Insights
