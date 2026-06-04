@@ -182,3 +182,13 @@ Insight: Sales demonstrate seasonal peaks, suggesting opportunities for targeted
 Revenue grew from 2022 to 2023 by 16.3% followed by a slight drop of 4.26% in 2024.
 
 Insight: Revenue grew significantly from 2022 to 2023 and remained strong in 2024.
+
+### Product Regional Performance
+The best performing products in each region
+● North - 
+
+● South
+
+● East
+
+● West
