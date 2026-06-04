@@ -119,3 +119,14 @@ The analysis was divided into three major business perspectives:
 ● The business generated $10.67M in total revenue.
 
 ● Total profit reached $1.84M, representing a healthy profitability level.
+
+### Category Performance
+
+| Category    | Revenue |
+| ----------- | ------- |
+| Electronics | $5.33M  |
+| Accessories | $4.25M  |
+| Office      | $1.09M  |
+
+
+Insight: Electronics contributed approximately half of total revenue, making it the strongest-performing category.
