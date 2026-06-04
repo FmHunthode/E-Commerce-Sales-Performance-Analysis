@@ -130,3 +130,15 @@ The analysis was divided into three major business perspectives:
 
 
 Insight: Electronics contributed approximately half of total revenue, making it the strongest-performing category.
+
+## Product Performance
+
+Top-performing products by revenue:
+
+Camera — $1.18M
+Monitor — $1.16M
+Printer — $1.09M
+Mouse — $1.07M
+Smartphone — $1.07M
+
+Insight: Revenue is concentrated among a small group of high-performing products with camera being the highest performer
