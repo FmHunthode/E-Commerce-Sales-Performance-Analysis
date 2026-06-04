@@ -131,7 +131,7 @@ The analysis was divided into three major business perspectives:
 
 Insight: Electronics contributed approximately half of total revenue, making it the strongest-performing category.
 
-## Product Performance
+### Product Performance
 
 Top-performing products by revenue:
 
@@ -142,3 +142,37 @@ Mouse — $1.07M
 Smartphone — $1.07M
 
 Insight: Revenue is concentrated among a small group of high-performing products with camera being the highest performer
+
+### Regional Performance
+| Region | Revenue |
+| ------ | ------- |
+| West   | $2.84M  |
+| East   | $2.68M  |
+| South  | $2.66M  |
+| North  | $2.49M  |
+Insight: The West region generated the highest revenue while the North region contributed the least.
+
+### Seasonal Performance
+Highest-performing months:
+
+● May
+
+● January
+
+● December
+
+● March
+
+Insight: Sales demonstrate seasonal peaks, suggesting opportunities for targeted promotional campaigns during low-demand periods.
+
+Insight: Sales demonstrate seasonal peaks, suggesting opportunities for targeted promotional campaigns during high-demand periods.
+
+### Yearly Performance
+| Year | Revenue |
+| ---- | ------- |
+| 2022 | $3.26M  |
+| 2023 | $3.79M  |
+| 2024 | $3.63M  |
+
+Revenue grew from 2022 to 2023 by 16.3% followed by a slight drop of 4.26% in 2024.
+Insight: Revenue grew significantly from 2022 to 2023 and remained strong in 2024.
