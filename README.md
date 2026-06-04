@@ -95,3 +95,27 @@ The analysis was divided into three major business perspectives:
 ● Profit contribution by region
 
 ● Product performance across regions
+
+## Key Questions
+
+ The project aimed to answer the following business questions:
+
+● What is the overall revenue performance of the business?
+
+● Which product categories generate the most revenue?
+
+● Which products contribute the highest sales?
+
+● Which regions perform best?
+
+● Are there noticeable seasonal sales trends?
+
+● How has performance changed across years?
+
+● What opportunities exist for revenue growth?
+
+## Key Insights
+### Revenue Performance
+● The business generated $10.67M in total revenue.
+
+● Total profit reached $1.84M, representing a healthy profitability level.
