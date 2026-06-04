@@ -82,15 +82,16 @@ The analysis was divided into three major business perspectives:
 
 ● Average Order Value
 
-● Average Profit Per Order
-
-● Average Quantity Per Order
-
-● Profit Margin
-
 ### 2. Seasonal Trend Analysis
 ● Monthly revenue and profit patterns
 
 ● Year-over-year performance
 
 ● Seasonal demand fluctuations
+
+### 3. Regional Performance Analysis
+● Revenue by region
+
+● Profit contribution by region
+
+● Product performance across regions
