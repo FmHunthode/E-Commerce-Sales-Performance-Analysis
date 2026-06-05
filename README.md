@@ -221,6 +221,7 @@ Insight: Product preferences vary across regions.The Monitor emerged as the high
 
 ## Dashboard Preview
 ### Overview Dashboard
+![Overview Dashboard](https://github.com/FmHunthode/E-Commerce-Sales-Performance-Analysis/blob/7d28c641bdbc1ed4b398f78e1b30dbf82e93b234/Overview%20Dashboard.png)
 
 ### Seasonal Trends Dashboard
 
