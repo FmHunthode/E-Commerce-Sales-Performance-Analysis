@@ -183,12 +183,14 @@ Revenue grew from 2022 to 2023 by 16.3% followed by a slight drop of 4.26% in 20
 
 Insight: Revenue grew significantly from 2022 to 2023 and remained strong in 2024.
 
-### Product Regional Performance
-The best performing products in each region
-● North - 
+### Regional Product Leadership
 
-● South
+| Region | Best Performing Product | Revenue |
+| ------ | ----------------------- | ------- |
+| North  | Monitor                 | $XXX    |
+| South  | Printer                 | $XXX    |
+| East   | Smartphone              | $XXX    |
+| West   | Monitor                 | $XXX    |
 
-● East
 
-● West
+Product preferences vary across regions.The Monitor emerged as the highest revenue-generating product in the North region, Monitor again in the west region, Smartphone led in the east while the Printer led sales in the South region. This suggests that customer demand differs by location, creating opportunities for region-specific marketing and inventory strategies.
