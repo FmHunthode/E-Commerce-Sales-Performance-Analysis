@@ -187,10 +187,10 @@ Insight: Revenue grew significantly from 2022 to 2023 and remained strong in 202
 
 | Region | Best Performing Product | Revenue |
 | ------ | ----------------------- | ------- |
-| North  | Monitor                 | $XXX    |
-| South  | Printer                 | $XXX    |
-| East   | Smartphone              | $XXX    |
-| West   | Monitor                 | $XXX    |
+| North  | Monitor                 | $306K   |
+| South  | Printer                 | $337K   |
+| East   | Smartphone              | $297K   |
+| West   | Monitor                 | $334K   |
 
 
 Product preferences vary across regions.The Monitor emerged as the highest revenue-generating product in the North region, Monitor again in the west region, Smartphone led in the east while the Printer led sales in the South region. This suggests that customer demand differs by location, creating opportunities for region-specific marketing and inventory strategies.
