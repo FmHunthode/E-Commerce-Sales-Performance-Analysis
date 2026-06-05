@@ -170,7 +170,7 @@ Highest-performing months:
 
 ● March
 
-Insight: Sales demonstrate seasonal peaks, suggesting opportunities for targeted promotional campaigns during low-demand periods.
+Insight: Sales demonstrate seasonal peaks, suggesting opportunities for targeted promotional campaigns during high-demand periods.
 
 ### Yearly Performance
 | Year | Revenue |
@@ -193,4 +193,28 @@ Insight: Revenue grew significantly from 2022 to 2023 and remained strong in 202
 | West   | Monitor                 | $334K   |
 
 
-Product preferences vary across regions.The Monitor emerged as the highest revenue-generating product in the North region, Monitor again in the west region, Smartphone led in the east while the Printer led sales in the South region. This suggests that customer demand differs by location, creating opportunities for region-specific marketing and inventory strategies.
+Insight: Product preferences vary across regions.The Monitor emerged as the highest revenue-generating product in the North region, Monitor again in the west region, Smartphone led in the east while the Printer led sales in the South region. This suggests that customer demand differs by location, creating opportunities for region-specific marketing and inventory strategies.
+
+## Recommendations
+### Product Strategy
+● Increase focus on top-performing products such as Cameras, Monitors, and Printers.
+
+● Investigate underperforming products for optimization opportunities.
+
+### Regional Strategy
+● Replicate successful sales strategies from the West region across other regions.
+
+● Develop targeted campaigns to improve North region performance.
+
+### Seasonal Planning
+● Allocate additional inventory before peak sales periods.
+
+● Launch marketing campaigns ahead of high-performing months e.g running discounts.
+
+### Category Management
+● Continue investing in Electronics, which is the strongest revenue driver.
+
+● Explore opportunities to expand the Office category contribution.
+
+### Regional Product Strategy
+● Adopt region-specific product strategies by increasing inventory and promotional efforts for the highest-performing products in each region. This can improve customer satisfaction and maximize regional revenue potential.
