@@ -229,7 +229,7 @@ Insight: Product preferences vary across regions.The Monitor emerged as the high
 ### Regional Analysis Dashboard
 ![Regional Analysis Dashboard](https://github.com/FmHunthode/E-Commerce-Sales-Performance-Analysis/blob/b0d33586dc09000f492082a6d157e35cbcae900c/Regional%20Analysis%20Dashboard.png)
 
-### Dashboard
+## Dashboard
 
 The dashboard provides an interactive view of:
 
@@ -248,3 +248,18 @@ The dashboard provides an interactive view of:
 ● KPI Monitoring
 
 Users can interact with slicers and filters to explore different business perspectives.
+
+## Limitations
+● Dataset covers only available transactions between 2022 and 2024.
+
+● Customer-level information was not included.
+
+● External factors such as economic conditions and competitor activity were not considered.
+
+● Findings are dependent on the quality and completeness of the provided dataset.
+
+## Conclusion
+
+● This analysis revealed that Electronics is the dominant revenue-generating category, while Cameras, Monitors, and Printers are the strongest-performing products. The West region leads overall sales performance, and clear seasonal demand patterns exist throughout the year.
+
+● The dashboard provides stakeholders with a centralized view of business performance and supports data-driven decision-making for growth, inventory planning, and regional strategy.
