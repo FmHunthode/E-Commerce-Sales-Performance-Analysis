@@ -228,3 +228,23 @@ Insight: Product preferences vary across regions.The Monitor emerged as the high
 
 ### Regional Analysis Dashboard
 ![Regional Analysis Dashboard](https://github.com/FmHunthode/E-Commerce-Sales-Performance-Analysis/blob/b0d33586dc09000f492082a6d157e35cbcae900c/Regional%20Analysis%20Dashboard.png)
+
+### Dashboard
+
+The dashboard provides an interactive view of:
+
+● Revenue Performance
+
+● Profit Analysis
+
+● Category Breakdown
+
+● Product Performance
+
+● Regional Performance
+
+● Seasonal Trends
+
+● KPI Monitoring
+
+Users can interact with slicers and filters to explore different business perspectives.
